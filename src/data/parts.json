@@ -1,0 +1,3006 @@
+[
+  {
+    "name": "1x2 Tile w/ Rounded Ends",
+    "part_num": "1126"
+  },
+  {
+    "part_num": "1686",
+    "name": "Shoulder Cover, Round w/ Bars"
+  },
+  {
+    "name": "1x2 Jumper, ½-Circle",
+    "part_num": "1745"
+  },
+  {
+    "name": "1x2 Tile, ½-Circle",
+    "part_num": "1748"
+  },
+  {
+    "name": "2x2 Curved, Inverted w/ Cutouts",
+    "part_num": "1750"
+  },
+  {
+    "part_num": "1762",
+    "name": "2x2 Double Wedge, Curved"
+  },
+  {
+    "name": "1x4 Hinge Plate",
+    "part_num": "1927"
+  },
+  {
+    "part_num": "1941",
+    "name": "1x1 w/ 3-Handles, 3-Bar Holes"
+  },
+  {
+    "name": "2x1 Inverted Slope w/ Cutout ",
+    "part_num": "2310"
+  },
+  {
+    "name": "2x2 Brick, Corner",
+    "part_num": "2357"
+  },
+  {
+    "part_num": "2393",
+    "name": "1x3 Cross Block w/ 2-Pins, 3-Pin Holes"
+  },
+  {
+    "part_num": "2395",
+    "name": "#9 3x3 Fairing, Tapered, Lt. "
+  },
+  {
+    "part_num": "2403",
+    "name": "#10 3x3 Fairing, Tapered, Rt. "
+  },
+  {
+    "name": "1x2 Tile, Grille",
+    "part_num": "2412"
+  },
+  {
+    "name": "6x5 Leaves",
+    "part_num": "2417"
+  },
+  {
+    "name": "3x6 Double Corner Plate",
+    "part_num": "2419"
+  },
+  {
+    "name": "2x2 Plate, Corner",
+    "part_num": "2420"
+  },
+  {
+    "name": "4x3 Leaves",
+    "part_num": "2423"
+  },
+  {
+    "name": "1x4 Tile",
+    "part_num": "2431"
+  },
+  {
+    "name": "1x2 Tile w/ Handle",
+    "part_num": "2432"
+  },
+  {
+    "name": "2x12 Plate",
+    "part_num": "2445"
+  },
+  {
+    "part_num": "2446",
+    "name": "Helmet, Motorcycle"
+  },
+  {
+    "part_num": "2447",
+    "name": "Visor"
+  },
+  {
+    "name": "2x1x3 Inverted Slope w/ 2-Studs",
+    "part_num": "2449"
+  },
+  {
+    "name": "3x3 Corner Plate",
+    "part_num": "2450"
+  },
+  {
+    "name": "1x1x5 Brick",
+    "part_num": "2453"
+  },
+  {
+    "name": "1x2x5 Brick",
+    "part_num": "2454"
+  },
+  {
+    "name": "2x6 Brick",
+    "part_num": "2456"
+  },
+  {
+    "name": "2x2 Plate, Top Pin",
+    "part_num": "2460"
+  },
+  {
+    "name": "1x16 Brick",
+    "part_num": "2465"
+  },
+  {
+    "part_num": "2477",
+    "name": "3x5 Liftarm, L-shape w/ Alternating Holes"
+  },
+  {
+    "name": "1x2 Plate w/ Handle, Side (Free Ends)",
+    "part_num": "2540"
+  },
+  {
+    "part_num": "2569",
+    "name": "1x8 Whip Antenna"
+  },
+  {
+    "part_num": "2629",
+    "name": "8x16x⅔ w/ Studs"
+  },
+  {
+    "part_num": "2630",
+    "name": "21L Flex Cable w/ Bar Holes, Bar Grips"
+  },
+  {
+    "name": "4x4 Plate, Corner",
+    "part_num": "2639"
+  },
+  {
+    "name": "1x4 Brick w/ Groove, Horizontal",
+    "part_num": "2653"
+  },
+  {
+    "name": "2x2 Round, Curved Inverted Tile (Boat Stud)",
+    "part_num": "2654"
+  },
+  {
+    "name": "Round 1x1 w/ Leaf (Fern)",
+    "part_num": "2682"
+  },
+  {
+    "name": "Pin, Friction",
+    "part_num": "2780"
+  },
+  {
+    "part_num": "2825",
+    "name": "1x4 Beam, Thin w/ 1-Stud Holder"
+  },
+  {
+    "part_num": "2853",
+    "name": "Crankshaft"
+  },
+  {
+    "name": "1x2 Brick, Ribbed",
+    "part_num": "2877"
+  },
+  {
+    "name": "1x1 Brick w/ Handle, Vertical",
+    "part_num": "2921"
+  },
+  {
+    "name": "2x4 Brick",
+    "part_num": "3001"
+  },
+  {
+    "name": "2x3 Brick",
+    "part_num": "3002"
+  },
+  {
+    "name": "2x2 Brick",
+    "part_num": "3003"
+  },
+  {
+    "name": "1x2 Brick",
+    "part_num": "3004"
+  },
+  {
+    "name": "1x1 Brick",
+    "part_num": "3005"
+  },
+  {
+    "name": "2x8 Brick",
+    "part_num": "3007"
+  },
+  {
+    "name": "1x8 Brick",
+    "part_num": "3008"
+  },
+  {
+    "name": "1x6 Brick",
+    "part_num": "3009"
+  },
+  {
+    "name": "1x4 Brick",
+    "part_num": "3010"
+  },
+  {
+    "name": "DUPLO 2x4 Brick",
+    "part_num": "3011"
+  },
+  {
+    "name": "2x4 Plate",
+    "part_num": "3020"
+  },
+  {
+    "name": "2x3 Plate",
+    "part_num": "3021"
+  },
+  {
+    "name": "2x2 Plate",
+    "part_num": "3022"
+  },
+  {
+    "name": "1x2 Plate",
+    "part_num": "3023"
+  },
+  {
+    "name": "1x1 Plate",
+    "part_num": "3024"
+  },
+  {
+    "name": "6x12 Plate",
+    "part_num": "3028"
+  },
+  {
+    "name": "4x12 Plate",
+    "part_num": "3029"
+  },
+  {
+    "name": "4x10 Plate",
+    "part_num": "3030"
+  },
+  {
+    "name": "4x4 Plate",
+    "part_num": "3031"
+  },
+  {
+    "name": "4x6 Plate",
+    "part_num": "3032"
+  },
+  {
+    "name": "6x10 Plate",
+    "part_num": "3033"
+  },
+  {
+    "name": "2x8 Plate",
+    "part_num": "3034"
+  },
+  {
+    "name": "4x8 Plate",
+    "part_num": "3035"
+  },
+  {
+    "name": "6x8 Plate",
+    "part_num": "3036"
+  },
+  {
+    "name": "2x4 Slope",
+    "part_num": "3037"
+  },
+  {
+    "name": "2x2 Slope",
+    "part_num": "3039"
+  },
+  {
+    "name": "2x1 Slope",
+    "part_num": "3040"
+  },
+  {
+    "name": "2x2 Corner Slope",
+    "part_num": "3045"
+  },
+  {
+    "part_num": "3046",
+    "name": "2x2 Inside Corner Slope"
+  },
+  {
+    "name": "1x1 Round Brick",
+    "part_num": "3062"
+  },
+  {
+    "name": "1x2 Brick w/o Bottom Tube",
+    "part_num": "3065"
+  },
+  {
+    "name": "2x2 Tile",
+    "part_num": "3068"
+  },
+  {
+    "name": "1x2 Tile",
+    "part_num": "3069"
+  },
+  {
+    "name": "1x1 Tile",
+    "part_num": "3070"
+  },
+  {
+    "name": "Clip w/ Bar, Angled",
+    "part_num": "3171"
+  },
+  {
+    "name": "1x3 w/ 2 studs, Hole Bottom",
+    "part_num": "3172"
+  },
+  {
+    "name": "3x2, Rounded End Plate w/ Pin Hole",
+    "part_num": "3176"
+  },
+  {
+    "name": "1x2x2 Brick",
+    "part_num": "3245"
+  },
+  {
+    "name": "2x2 Dome",
+    "part_num": "3262"
+  },
+  {
+    "name": "3x4 Slope",
+    "part_num": "3297"
+  },
+  {
+    "name": "3x2 Slope",
+    "part_num": "3298"
+  },
+  {
+    "part_num": "3299",
+    "name": "2x4 Double Slope"
+  },
+  {
+    "part_num": "3300",
+    "name": "2x2 Double Slope"
+  },
+  {
+    "name": "1x1x⅔ Stud 1-Side, Rounded End",
+    "part_num": "3386"
+  },
+  {
+    "name": "2x2 Tile w/ 2 Cutouts",
+    "part_num": "3396"
+  },
+  {
+    "name": "DUPLO 2x2 Brick",
+    "part_num": "3437"
+  },
+  {
+    "name": "1x8 Plate",
+    "part_num": "3460"
+  },
+  {
+    "name": "1x3 Brick",
+    "part_num": "3622"
+  },
+  {
+    "name": "1x3 Plate",
+    "part_num": "3623"
+  },
+  {
+    "name": "Minifigure Head",
+    "part_num": "3626"
+  },
+  {
+    "name": "1x4x1 Fence, Lattice",
+    "part_num": "3633"
+  },
+  {
+    "name": "1x4 Arch",
+    "part_num": "3659"
+  },
+  {
+    "name": "2x2 Inverted Slope",
+    "part_num": "3660"
+  },
+  {
+    "part_num": "3661",
+    "name": "1x1 Round Plate w/ Bar Arm, Down"
+  },
+  {
+    "name": "2x1 Inverted Slope",
+    "part_num": "3665"
+  },
+  {
+    "name": "1x6 Plate",
+    "part_num": "3666"
+  },
+  {
+    "part_num": "3668",
+    "name": "2x6x1⅓ 2-Axle Holes, Cutout"
+  },
+  {
+    "name": "Pin, Smooth",
+    "part_num": "3673"
+  },
+  {
+    "part_num": "3675",
+    "name": "3x3 Corner Slope w/ 1-Stud"
+  },
+  {
+    "name": "2x2x2 Slope w/ 2-Studs",
+    "part_num": "3678"
+  },
+  {
+    "name": "2x2 Turntable, Base",
+    "part_num": "3680"
+  },
+  {
+    "name": "1x2 Technic Brick",
+    "part_num": "3700"
+  },
+  {
+    "name": "1x4 Technic Brick",
+    "part_num": "3701"
+  },
+  {
+    "name": "1x8 Technic Brick",
+    "part_num": "3702"
+  },
+  {
+    "name": "1x16 Technic Brick",
+    "part_num": "3703"
+  },
+  {
+    "name": "4L Axle",
+    "part_num": "3705"
+  },
+  {
+    "name": "6L Axle",
+    "part_num": "3706"
+  },
+  {
+    "part_num": "3708",
+    "name": "12L Axle"
+  },
+  {
+    "name": "2x4 Plate w/ 3-Holes",
+    "part_num": "3709"
+  },
+  {
+    "name": "1x4 Plate",
+    "part_num": "3710"
+  },
+  {
+    "part_num": "3711",
+    "name": "1L Link, Chain"
+  },
+  {
+    "name": "Bush",
+    "part_num": "3713"
+  },
+  {
+    "part_num": "3737",
+    "name": "10L Axle"
+  },
+  {
+    "part_num": "3743",
+    "name": "1x4 Rack"
+  },
+  {
+    "name": "3x2 Inverted Slope w/ 6-Studs",
+    "part_num": "3747"
+  },
+  {
+    "name": "Smooth Pin & Axle",
+    "part_num": "3749"
+  },
+  {
+    "name": "2x6 Plate",
+    "part_num": "3795"
+  },
+  {
+    "part_num": "3821",
+    "name": "1x3 Car Door, Right"
+  },
+  {
+    "part_num": "3822",
+    "name": "1x3 Car Door, Left"
+  },
+  {
+    "part_num": "3823",
+    "name": "2x4x2 Windscreen w/ 2-Studs"
+  },
+  {
+    "name": "1x2 w/ Steering Wheel",
+    "part_num": "3829"
+  },
+  {
+    "name": "1x4 Hinge, Top",
+    "part_num": "3830"
+  },
+  {
+    "name": "1x4 Hinge, Base",
+    "part_num": "3831"
+  },
+  {
+    "name": "2x10 Plate",
+    "part_num": "3832"
+  },
+  {
+    "part_num": "3837",
+    "name": "Shovel"
+  },
+  {
+    "name": "1x2 Plate w/ 2-Handles",
+    "part_num": "3839"
+  },
+  {
+    "name": "1x6 Technic Brick",
+    "part_num": "3894"
+  },
+  {
+    "name": "Mug",
+    "part_num": "3899"
+  },
+  {
+    "name": "1x2 Hinge Brick, Base",
+    "part_num": "3937"
+  },
+  {
+    "name": "1x2 Hinge, Top",
+    "part_num": "3938"
+  },
+  {
+    "part_num": "3940",
+    "name": "2x2x2 Round Support"
+  },
+  {
+    "name": "2x2 Round Brick",
+    "part_num": "3941"
+  },
+  {
+    "name": "2x2x2 Cone",
+    "part_num": "3942"
+  },
+  {
+    "part_num": "3943",
+    "name": "4x4x2 Cone"
+  },
+  {
+    "part_num": "3956",
+    "name": "2x2 Bracket w/ 2-Holes"
+  },
+  {
+    "name": "1x4 Antenna",
+    "part_num": "3957"
+  },
+  {
+    "name": "6x6 Plate",
+    "part_num": "3958"
+  },
+  {
+    "name": "2x2 Round Plate w/ Axle Hole",
+    "part_num": "4032"
+  },
+  {
+    "part_num": "4042",
+    "name": "Bar, Curved w/ Axle & 2-Studs"
+  },
+  {
+    "name": "1x1 Brick, Headlight",
+    "part_num": "4070"
+  },
+  {
+    "name": "2x2 Seat, Minifig",
+    "part_num": "4079"
+  },
+  {
+    "name": "1x1 Ring",
+    "part_num": "4081"
+  },
+  {
+    "name": "1x1 Plate w/ Clip, Vertical",
+    "part_num": "4085"
+  },
+  {
+    "part_num": "4151",
+    "name": "8x8 Plate w/ Grille"
+  },
+  {
+    "name": "1x8 Tile",
+    "part_num": "4162"
+  },
+  {
+    "part_num": "4176",
+    "name": "2x6x2 Windscreen w/ 6-Studs"
+  },
+  {
+    "name": "Belt Wheel (Pulley)",
+    "part_num": "4185"
+  },
+  {
+    "part_num": "4190",
+    "name": "2x2 Inverted, Corner"
+  },
+  {
+    "name": "1x2 Brick w/ Groove, Vertical",
+    "part_num": "4216"
+  },
+  {
+    "name": "½-Pin, Smooth",
+    "part_num": "4274"
+  },
+  {
+    "name": "2x16 Plate",
+    "part_num": "4282"
+  },
+  {
+    "name": "3x1 Slope",
+    "part_num": "4286"
+  },
+  {
+    "name": "3x1 Inverted Slope",
+    "part_num": "4287"
+  },
+  {
+    "name": "2x2x⅔ 2-Studs, Side",
+    "part_num": "4304"
+  },
+  {
+    "part_num": "4349",
+    "name": "Megaphone"
+  },
+  {
+    "name": "2x1x3",
+    "part_num": "4460"
+  },
+  {
+    "name": "1x10 Plate",
+    "part_num": "4477"
+  },
+  {
+    "name": "1x3 Arch",
+    "part_num": "4490"
+  },
+  {
+    "name": "4x1 Flag, Wave",
+    "part_num": "4495"
+  },
+  {
+    "name": "1½x8 Door Rail",
+    "part_num": "4510"
+  },
+  {
+    "name": "3L Axle",
+    "part_num": "4519"
+  },
+  {
+    "part_num": "4595",
+    "name": "1x2x⅔ Studs 2-Sides, Antistud End"
+  },
+  {
+    "name": "1x1 Tap",
+    "part_num": "4599"
+  },
+  {
+    "name": "Pneumatic T-Piece",
+    "part_num": "4697"
+  },
+  {
+    "part_num": "4727",
+    "name": "2x2 Flower Leaves"
+  },
+  {
+    "name": "1x1 Brick, Studs 4-Sides",
+    "part_num": "4733"
+  },
+  {
+    "part_num": "4735",
+    "name": "1x3 Bar w/ Clip (Robot Arm)"
+  },
+  {
+    "part_num": "4739",
+    "name": "2x4 Treasure Chest Lid, Curved w/ 4-Studs"
+  },
+  {
+    "name": "2x2 Dish",
+    "part_num": "4740"
+  },
+  {
+    "name": "1x2 Panel",
+    "part_num": "4865"
+  },
+  {
+    "name": "4x2 Inverted Double Slope",
+    "part_num": "4871"
+  },
+  {
+    "name": "1x2 Tile, Corner Left",
+    "part_num": "5091"
+  },
+  {
+    "name": "1x2 Tile, Corner Right",
+    "part_num": "5092"
+  },
+  {
+    "name": "18° 2x1x⅔ Slope",
+    "part_num": "5404"
+  },
+  {
+    "part_num": "5414",
+    "name": "4x1 Wedge, Curved Right"
+  },
+  {
+    "part_num": "5415",
+    "name": "4x1 Wedge, Curved Left"
+  },
+  {
+    "part_num": "5489",
+    "name": "2x2 Elbow, 2-Axle Holes, Long"
+  },
+  {
+    "part_num": "5654",
+    "name": "4x1 Slope"
+  },
+  {
+    "part_num": "5717",
+    "name": "Tail, Middle w/ Pin Hole"
+  },
+  {
+    "name": "1x2 Curved w/ Cutout",
+    "part_num": "5841"
+  },
+  {
+    "part_num": "5843",
+    "name": "3x1x1⅔ Curved"
+  },
+  {
+    "part_num": "5903",
+    "name": "Flower, Tulip"
+  },
+  {
+    "name": "6x6 Corner Plate, ¼-Circle",
+    "part_num": "6003"
+  },
+  {
+    "name": "1x3x2 Curved w/ Curved Cutout",
+    "part_num": "6005"
+  },
+  {
+    "name": "4x2x1⅓ Curved w/ Cutout",
+    "part_num": "6081"
+  },
+  {
+    "name": "1x2x1⅓ Curved w/ Cutout",
+    "part_num": "6091"
+  },
+  {
+    "name": "6x6 Corner Plate",
+    "part_num": "6106"
+  },
+  {
+    "name": "1x10 Brick",
+    "part_num": "6111"
+  },
+  {
+    "name": "1x12 Brick",
+    "part_num": "6112"
+  },
+  {
+    "part_num": "6124",
+    "name": "Magic Wand (Star)"
+  },
+  {
+    "name": "2x2 Hinge, Top",
+    "part_num": "6134"
+  },
+  {
+    "name": "1x1 Round Plate",
+    "part_num": "6141"
+  },
+  {
+    "part_num": "6148",
+    "name": "Palm Leaf, Small"
+  },
+  {
+    "part_num": "6154",
+    "name": "1x4x4 Window Frame"
+  },
+  {
+    "part_num": "6157",
+    "name": "2x2 Wide Plate w/ 2 Wheel Pins"
+  },
+  {
+    "name": "4x4, 4-Studs Edge",
+    "part_num": "6179"
+  },
+  {
+    "name": "4x6, Studs 3-Edges",
+    "part_num": "6180"
+  },
+  {
+    "part_num": "6187",
+    "name": "1x4x2 Railing"
+  },
+  {
+    "part_num": "6190",
+    "name": "1x3 Phone w/ 2-Antistuds"
+  },
+  {
+    "name": "2x3 Curved w/ 4-Studs",
+    "part_num": "6215"
+  },
+  {
+    "part_num": "6222",
+    "name": "4x4 Round w/ 4-Pin Holes"
+  },
+  {
+    "name": "1x1 Panel, Corner",
+    "part_num": "6231"
+  },
+  {
+    "part_num": "6266",
+    "name": "Skeleton Leg"
+  },
+  {
+    "part_num": "6510",
+    "name": "DUPLO Flower"
+  },
+  {
+    "name": "2L Axle & Pin, Perpendicular",
+    "part_num": "6536"
+  },
+  {
+    "name": "1x1 Technic Brick",
+    "part_num": "6541"
+  },
+  {
+    "name": "3L Pin, Friction",
+    "part_num": "6558"
+  },
+  {
+    "part_num": "6564",
+    "name": "3x2 Wedge, Right"
+  },
+  {
+    "part_num": "6575",
+    "name": "Cam"
+  },
+  {
+    "name": "1x3 Beam, Thin",
+    "part_num": "6632"
+  },
+  {
+    "name": "1x6 Tile",
+    "part_num": "6636"
+  },
+  {
+    "part_num": "6901",
+    "name": "2x2 Sunflower w/ 16-Petals"
+  },
+  {
+    "part_num": "7126",
+    "name": "1x1 Curved"
+  },
+  {
+    "part_num": "10169",
+    "name": "Sack"
+  },
+  {
+    "name": "Pin Hub, 2-Axle 90°",
+    "part_num": "10197"
+  },
+  {
+    "name": "2x2 Plate, 1-Pin Hole, Bottom",
+    "part_num": "10247"
+  },
+  {
+    "part_num": "10928",
+    "name": "8 Tooth"
+  },
+  {
+    "name": "Bar Holder w/ Clip",
+    "part_num": "11090"
+  },
+  {
+    "name": "2x2 Tile, Inverted",
+    "part_num": "11203"
+  },
+  {
+    "part_num": "11209",
+    "name": "14mm ID. Tire (21x9.9mm)"
+  },
+  {
+    "name": "1x2 Brick, Studs 1-Side",
+    "part_num": "11211"
+  },
+  {
+    "name": "3x3 Plate",
+    "part_num": "11212"
+  },
+  {
+    "name": "6x6 Round Plate",
+    "part_num": "11213"
+  },
+  {
+    "name": "2L Friction Pin & 1L Axle",
+    "part_num": "11214"
+  },
+  {
+    "name": "5x2x1⅓ Bracket",
+    "part_num": "11215"
+  },
+  {
+    "name": "Roller Skate",
+    "part_num": "11253"
+  },
+  {
+    "name": "1x2 Plate, 1-Pin Hole, Top",
+    "part_num": "11458"
+  },
+  {
+    "name": "1x2 Plate w/ Horizontal Clip, Side",
+    "part_num": "11476"
+  },
+  {
+    "name": "2x1x⅔ Curved",
+    "part_num": "11477"
+  },
+  {
+    "name": "1x5 Beam, Thin w/ 2-Axle Holes",
+    "part_num": "11478"
+  },
+  {
+    "name": "1x1 Cone, Inverted w/ Bar (Ice Cream Cone)",
+    "part_num": "11610"
+  },
+  {
+    "part_num": "11618",
+    "name": "Heart Bow w/ Stem"
+  },
+  {
+    "name": "4x4 Round Plate w/ 2x2 Cutout",
+    "part_num": "11833"
+  },
+  {
+    "name": "#21 2x5 Fairing, B.",
+    "part_num": "11946"
+  },
+  {
+    "name": "#22 2x5 Fairing, A.",
+    "part_num": "11947"
+  },
+  {
+    "part_num": "13349",
+    "name": "4x4 Wedge Slope, Inverted"
+  },
+  {
+    "name": "4x1 Curved, Inverted w/ Cutouts",
+    "part_num": "13547"
+  },
+  {
+    "name": "2x2 Wedge Slope",
+    "part_num": "13548"
+  },
+  {
+    "name": "Cattle Horn, Long",
+    "part_num": "13564"
+  },
+  {
+    "name": "10x1 Curved",
+    "part_num": "13731"
+  },
+  {
+    "name": "3x3 ½-Arch, Pointed",
+    "part_num": "13965"
+  },
+  {
+    "part_num": "14181",
+    "name": "4x9 Double Wedge Plate"
+  },
+  {
+    "name": "5x4 ½-Arch",
+    "part_num": "14395"
+  },
+  {
+    "part_num": "14413",
+    "name": "4x4 Corner Brick, Facet"
+  },
+  {
+    "name": "1x2 Plate w/ Towball, Side",
+    "part_num": "14417"
+  },
+  {
+    "name": "1x2 Plate w/ Towball Socket, End",
+    "part_num": "14418"
+  },
+  {
+    "part_num": "14419",
+    "name": "1x2 Plate w/ Towball & Socket, Ends"
+  },
+  {
+    "name": "1x2 Plate w/ Towball Socket, Side",
+    "part_num": "14704"
+  },
+  {
+    "name": "1x1x3 Brick",
+    "part_num": "14716"
+  },
+  {
+    "name": "1x4x2 Panel with Studs",
+    "part_num": "14718"
+  },
+  {
+    "name": "2x2 Tile, Corner",
+    "part_num": "14719"
+  },
+  {
+    "part_num": "14720",
+    "name": "3x5 Beam, H-Shape"
+  },
+  {
+    "name": "2x2 Tile, Round",
+    "part_num": "14769"
+  },
+  {
+    "name": "2x2x⅔ Curved",
+    "part_num": "15068"
+  },
+  {
+    "name": "1x1 Tooth, Vertical",
+    "part_num": "15070"
+  },
+  {
+    "name": "1x4 Panel",
+    "part_num": "15207"
+  },
+  {
+    "name": "1x2 3-Teeth, Horizontal",
+    "part_num": "15208"
+  },
+  {
+    "name": "6x2 Arch",
+    "part_num": "15254"
+  },
+  {
+    "part_num": "15379",
+    "name": "Link, Tread"
+  },
+  {
+    "name": "2x2 Dome, Inverted w/o Studs",
+    "part_num": "15395"
+  },
+  {
+    "part_num": "15461",
+    "name": "3L Pin, 2-Pins & 1-Pin Hole"
+  },
+  {
+    "name": "2x2 Round w/ 4-Petals",
+    "part_num": "15469"
+  },
+  {
+    "name": "1x4 Brick, Masonry",
+    "part_num": "15533"
+  },
+  {
+    "name": "2x2 Round Tile w/ Pin Hole",
+    "part_num": "15535"
+  },
+  {
+    "name": "2x1 Triple Slope",
+    "part_num": "15571"
+  },
+  {
+    "name": "1x2 Jumper",
+    "part_num": "15573"
+  },
+  {
+    "name": "A-Shape, 8-Studs",
+    "part_num": "15706"
+  },
+  {
+    "name": "1x1 Plate w/ Clip, Top",
+    "part_num": "15712"
+  },
+  {
+    "name": "8x2 Arch",
+    "part_num": "16577"
+  },
+  {
+    "name": "2x2 Round w/ 2-Pin Holes",
+    "part_num": "17485"
+  },
+  {
+    "name": "3x6, ½-Circle Plate w/ 1x2 Cutout",
+    "part_num": "18646"
+  },
+  {
+    "name": "1x2 Plate w/ Handle, Both Ends",
+    "part_num": "18649"
+  },
+  {
+    "name": "1L Friction Pin & 2L Axle",
+    "part_num": "18651"
+  },
+  {
+    "name": "3x2 ½-Arch, Inverted",
+    "part_num": "18653"
+  },
+  {
+    "name": "1x1 Beam (Spacer)",
+    "part_num": "18654"
+  },
+  {
+    "name": "2x2 Round Jumper",
+    "part_num": "18674"
+  },
+  {
+    "name": "1x2 Plate, 1-Pin Hole, Bottom",
+    "part_num": "18677"
+  },
+  {
+    "part_num": "18787",
+    "name": "Sword, Pixelated (Minecraft)"
+  },
+  {
+    "part_num": "18970",
+    "name": "2x2 Plate w/ Clam Shell"
+  },
+  {
+    "part_num": "18977",
+    "name": "18mm ID. Tire, Low Profile (24x12mm)"
+  },
+  {
+    "name": "2x6 Plate w/ 2-Rounded Corners ",
+    "part_num": "18980"
+  },
+  {
+    "name": "6-Stem w/ Bar (Flower)",
+    "part_num": "19119"
+  },
+  {
+    "part_num": "19121",
+    "name": "1x4x2 Railing w/ Studs, Ornamental"
+  },
+  {
+    "part_num": "19220",
+    "name": "Radio"
+  },
+  {
+    "part_num": "20309",
+    "name": "1x4x1⅔ Window, Arched"
+  },
+  {
+    "name": "1x1 Brick w/ Scroll",
+    "part_num": "20310"
+  },
+  {
+    "name": "1x1 Round Plate w/ Bar, Stem Hole",
+    "part_num": "20482"
+  },
+  {
+    "part_num": "21229",
+    "name": "4x4x2, Ø8 Curved Railing w/ Studs, Spindled"
+  },
+  {
+    "part_num": "21445",
+    "name": "1x2 Plate w/ 1 Wheel Pin"
+  },
+  {
+    "name": "Sword, Katana",
+    "part_num": "21459"
+  },
+  {
+    "name": "2x3 Tile, Pentagonal",
+    "part_num": "22385"
+  },
+  {
+    "name": "1x1x⅔ Pyramid",
+    "part_num": "22388"
+  },
+  {
+    "part_num": "22391",
+    "name": "4x4 Wedge, Pointed"
+  },
+  {
+    "name": "Bar 1L w/ Towball",
+    "part_num": "22484"
+  },
+  {
+    "name": "1x2x1⅔ Brick, Studs 1-Side",
+    "part_num": "22885"
+  },
+  {
+    "name": "1x2x3 Brick",
+    "part_num": "22886"
+  },
+  {
+    "name": "4x8 Plate, ½-Circle",
+    "part_num": "22888"
+  },
+  {
+    "name": "Pin Hub, Axle",
+    "part_num": "22961"
+  },
+  {
+    "name": "Bar Holder w/ Handle",
+    "part_num": "23443"
+  },
+  {
+    "part_num": "23948",
+    "name": "11L Axle"
+  },
+  {
+    "name": "1x3 Panel",
+    "part_num": "23950"
+  },
+  {
+    "name": "1x2 Panel w/ 2-Sides",
+    "part_num": "23969"
+  },
+  {
+    "part_num": "23986",
+    "name": "Teapot"
+  },
+  {
+    "part_num": "24119",
+    "name": "3x7x2 Panel, Curved"
+  },
+  {
+    "name": "Axle Hub, 2-Bar Holders",
+    "part_num": "24122"
+  },
+  {
+    "name": "2x1x⅔ Curved, Inverted",
+    "part_num": "24201"
+  },
+  {
+    "name": "1x1 Tile w/ Rounded End",
+    "part_num": "24246"
+  },
+  {
+    "name": "2x2 Wedge Plate, Left",
+    "part_num": "24299"
+  },
+  {
+    "name": "2x2 Wedge Plate, Right",
+    "part_num": "24307"
+  },
+  {
+    "name": "3x2 Curved",
+    "part_num": "24309"
+  },
+  {
+    "name": "3L Axle w/ Stop",
+    "part_num": "24316"
+  },
+  {
+    "part_num": "24324",
+    "name": "Book Binding w/ 2-Studs"
+  },
+  {
+    "part_num": "24599",
+    "name": "5x5 Round Corner"
+  },
+  {
+    "name": "3-Stem w/ Bar (Flower)",
+    "part_num": "24855"
+  },
+  {
+    "name": "1x1 Flower, 5-Petals",
+    "part_num": "24866"
+  },
+  {
+    "part_num": "24947",
+    "name": "2x2 Dome, Inverted w/ Studs"
+  },
+  {
+    "name": "1x1 90° Elbow, 2-Axle Holes",
+    "part_num": "25214"
+  },
+  {
+    "name": "1x1 Tile, ¼-Circle",
+    "part_num": "25269"
+  },
+  {
+    "part_num": "25375",
+    "name": "Tassel"
+  },
+  {
+    "name": "1x1 Plate, Round w/ Handle",
+    "part_num": "26047"
+  },
+  {
+    "part_num": "26599",
+    "name": "2x4 Plate, 2-Pin Holes, Bottom"
+  },
+  {
+    "name": "2x2 Corner Plate",
+    "part_num": "26601"
+  },
+  {
+    "name": "2x3 Tile",
+    "part_num": "26603"
+  },
+  {
+    "name": "1x1 Brick, 2-Studs, Adjacent Sides",
+    "part_num": "26604"
+  },
+  {
+    "part_num": "27167",
+    "name": "4x3x3 Chest Plate w/ 2x2 Studs, Handle"
+  },
+  {
+    "part_num": "27256",
+    "name": "Lightning Bolt"
+  },
+  {
+    "name": "1x2 w/ 3-Claws (Rock)",
+    "part_num": "27261"
+  },
+  {
+    "part_num": "27262",
+    "name": "6x4x1 Windscreen, Hexagonal w/ Handle"
+  },
+  {
+    "name": "2x2 Tile, Corner w/ Cutout",
+    "part_num": "27263"
+  },
+  {
+    "part_num": "27393",
+    "name": "Power Blast w/ Handle"
+  },
+  {
+    "name": "4x4 Tile, ¼-Circle w/ 3x3 Cutout",
+    "part_num": "27507"
+  },
+  {
+    "name": "2x2 Tile, ¼-Circle w/ 1x1 Cutout",
+    "part_num": "27925"
+  },
+  {
+    "name": "Pin Hub, 2-Axle",
+    "part_num": "27940"
+  },
+  {
+    "part_num": "27965",
+    "name": "22L Flex Cable w/ Bar Holes (Zipline)"
+  },
+  {
+    "name": "2x2 w/ Cutout, Smooth",
+    "part_num": "28192"
+  },
+  {
+    "part_num": "28327",
+    "name": "4x4x6 Window/Door Frame, Corner"
+  },
+  {
+    "name": "1x4 Bracket w/ 1x2 Plate",
+    "part_num": "28802"
+  },
+  {
+    "part_num": "29111",
+    "name": "Spider"
+  },
+  {
+    "name": "2x1 Wedge, Curved Right",
+    "part_num": "29119"
+  },
+  {
+    "name": "2x1 Wedge, Curved Left",
+    "part_num": "29120"
+  },
+  {
+    "part_num": "30000",
+    "name": "2x2 Brick, 2-Pins, 2-Sides"
+  },
+  {
+    "part_num": "30046",
+    "name": "Pane for 2x2⅔ Window w/ Arched Top, Lattice"
+  },
+  {
+    "name": "5x4 ½-Arch, Inverted",
+    "part_num": "30099"
+  },
+  {
+    "part_num": "30134",
+    "name": "7x4x6 Stairs, Open"
+  },
+  {
+    "name": "1x2 Brick, Log",
+    "part_num": "30136"
+  },
+  {
+    "name": "1x4 Brick, Log",
+    "part_num": "30137"
+  },
+  {
+    "part_num": "30151",
+    "name": "2x2x1⅔ Dome"
+  },
+  {
+    "name": "Diamond w/ Bar",
+    "part_num": "30153"
+  },
+  {
+    "name": "2x2 Curved w/ 2-Studs",
+    "part_num": "30165"
+  },
+  {
+    "name": "2x3 Shield w/ 4-studs, Handle",
+    "part_num": "30166"
+  },
+  {
+    "name": "1x2 Brick w/ Vertical Clip, Side",
+    "part_num": "30237"
+  },
+  {
+    "name": "2x3 Tile, 2-Clips, Side",
+    "part_num": "30350"
+  },
+  {
+    "part_num": "30355",
+    "name": "12x6 Wedge Plate, Left"
+  },
+  {
+    "part_num": "30356",
+    "name": "12x6 Wedge Plate, Right"
+  },
+  {
+    "name": "3x3 Corner Plate, ¼-Circle",
+    "part_num": "30357"
+  },
+  {
+    "name": "4x2 Slope w/ 2-Studs",
+    "part_num": "30363"
+  },
+  {
+    "name": "4L Bar",
+    "part_num": "30374"
+  },
+  {
+    "name": "1x4 Brick, Studs 1-Side",
+    "part_num": "30414"
+  },
+  {
+    "name": "4x4 Corner Plate",
+    "part_num": "30503"
+  },
+  {
+    "part_num": "30505",
+    "name": "3x3 Corner Brick"
+  },
+  {
+    "part_num": "30526",
+    "name": "1x2 Brick, 2-Pins, 1-Side"
+  },
+  {
+    "name": "4x4 plate, ¼-Circle",
+    "part_num": "30565"
+  },
+  {
+    "part_num": "30586",
+    "name": "2x8 Door Rail"
+  },
+  {
+    "name": "1x2 Technic Brick, 2-Pin Holes",
+    "part_num": "32000"
+  },
+  {
+    "name": "2x6 Plate w/ 5-Holes",
+    "part_num": "32001"
+  },
+  {
+    "part_num": "32005",
+    "name": "6L Technic Link"
+  },
+  {
+    "name": "Angled Connector #1",
+    "part_num": "32013"
+  },
+  {
+    "name": "Angled Connector #5, 112½°",
+    "part_num": "32015"
+  },
+  {
+    "name": "Angled Connector #3, 157½°",
+    "part_num": "32016"
+  },
+  {
+    "part_num": "32017",
+    "name": "1x5 Beam, Thin"
+  },
+  {
+    "name": "1½x2 Door Rail",
+    "part_num": "32028"
+  },
+  {
+    "name": "Angled Connector #2, 180°",
+    "part_num": "32034"
+  },
+  {
+    "name": "2L Axle",
+    "part_num": "32062"
+  },
+  {
+    "name": "1x2 Technic Brick w/ Axle Hole",
+    "part_num": "32064"
+  },
+  {
+    "part_num": "32072",
+    "name": "4 Knob Wheel"
+  },
+  {
+    "name": "5L Axle",
+    "part_num": "32073"
+  },
+  {
+    "name": "½ Bush",
+    "part_num": "32123"
+  },
+  {
+    "name": "1x5 Plate w/ Rounded Corners, Axle Hole",
+    "part_num": "32124"
+  },
+  {
+    "part_num": "32126",
+    "name": "Toggle Joint Connector"
+  },
+  {
+    "name": "2x4 Beam, L-Shape",
+    "part_num": "32140"
+  },
+  {
+    "name": "3L 2-Axle & Center Pin",
+    "part_num": "32184"
+  },
+  {
+    "name": "Angled Connector #4, 135°",
+    "part_num": "32192"
+  },
+  {
+    "part_num": "32209",
+    "name": "5½L Axle w/ Stop"
+  },
+  {
+    "part_num": "32269",
+    "name": "20 Tooth, Dbl. Bevel"
+  },
+  {
+    "part_num": "32271",
+    "name": "1x9 Beam, Bent (7-3)"
+  },
+  {
+    "name": "1x15 Beam",
+    "part_num": "32278"
+  },
+  {
+    "name": "1x5 Beam",
+    "part_num": "32316"
+  },
+  {
+    "part_num": "32324",
+    "name": "4x4 Technic Frame, Open Center"
+  },
+  {
+    "name": "1x4 Beam, Thin",
+    "part_num": "32449"
+  },
+  {
+    "name": "Ball Joint w/ Axle Hole, 1-Side",
+    "part_num": "32474"
+  },
+  {
+    "name": "1x3 Beam",
+    "part_num": "32523"
+  },
+  {
+    "name": "1x7 Beam",
+    "part_num": "32524"
+  },
+  {
+    "name": "1x11 Beam",
+    "part_num": "32525"
+  },
+  {
+    "name": "3x5 Beam, L-Shape",
+    "part_num": "32526"
+  },
+  {
+    "part_num": "32531",
+    "name": "4x6 Technic Frame, Open Center"
+  },
+  {
+    "part_num": "32532",
+    "name": "6x8 Technic Frame, Open Center"
+  },
+  {
+    "part_num": "32555",
+    "name": "5x5 Technic Brick, Corner"
+  },
+  {
+    "name": "3L Pin, Smooth",
+    "part_num": "32556"
+  },
+  {
+    "name": "Flower w/ Bar",
+    "part_num": "32606"
+  },
+  {
+    "name": "1x1 Plate w/ 3-Leaves",
+    "part_num": "32607"
+  },
+  {
+    "name": "4x1 Inverted Double Slope",
+    "part_num": "32802"
+  },
+  {
+    "name": "2x2x⅔ Curved, Inverted",
+    "part_num": "32803"
+  },
+  {
+    "name": "1x1 Round Plate w/ 1L Handle",
+    "part_num": "32828"
+  },
+  {
+    "name": "1x1x1⅔ Brick, Studs 1-Side",
+    "part_num": "32952"
+  },
+  {
+    "part_num": "33051",
+    "name": "Apple w/ Leaf"
+  },
+  {
+    "name": "Sausage",
+    "part_num": "33078"
+  },
+  {
+    "name": "Carrot Top",
+    "part_num": "33183"
+  },
+  {
+    "name": "Frog",
+    "part_num": "33320"
+  },
+  {
+    "name": "2x2, 2-Studs Edge",
+    "part_num": "33909"
+  },
+  {
+    "name": "1x3 Jumper w/ 2-studs (Double)",
+    "part_num": "34103"
+  },
+  {
+    "part_num": "34172",
+    "name": "Rice Bowl"
+  },
+  {
+    "part_num": "34173",
+    "name": "Spoon"
+  },
+  {
+    "name": "1x2 Brick w/ Vertical Handle, End",
+    "part_num": "34816"
+  },
+  {
+    "name": "4x4 Plate w/ 3x3 ¼-Circle Cutout",
+    "part_num": "35044"
+  },
+  {
+    "part_num": "35299",
+    "name": "3x6 Windscreen, Curved"
+  },
+  {
+    "name": "4x4 Dish",
+    "part_num": "35394"
+  },
+  {
+    "part_num": "35442",
+    "name": "2x2 Plate Gear w/ 6-Tooth"
+  },
+  {
+    "name": "1x3 Tile, Inverted w/ Hole",
+    "part_num": "35459"
+  },
+  {
+    "name": "1x1 Double Slope",
+    "part_num": "35464"
+  },
+  {
+    "part_num": "35470",
+    "name": "3x5 Plate, Cloud w/ 3-Studs"
+  },
+  {
+    "name": "1x2 Plate, Rounded Ends",
+    "part_num": "35480"
+  },
+  {
+    "part_num": "35485",
+    "name": "Chakram / Ring"
+  },
+  {
+    "name": "2x2 Tile, Triangular",
+    "part_num": "35787"
+  },
+  {
+    "part_num": "36017",
+    "name": "Hilt, Dragon Head"
+  },
+  {
+    "name": "Wand",
+    "part_num": "36752a"
+  },
+  {
+    "name": "1x1 Bracket, Inverted",
+    "part_num": "36840"
+  },
+  {
+    "name": "1x1 Bracket",
+    "part_num": "36841"
+  },
+  {
+    "name": "2x1x1 Curved",
+    "part_num": "37352"
+  },
+  {
+    "name": "3-Leaves w/ Pin",
+    "part_num": "37695"
+  },
+  {
+    "name": "Candle",
+    "part_num": "37762"
+  },
+  {
+    "name": "Flame, Candle",
+    "part_num": "37775"
+  },
+  {
+    "part_num": "38585",
+    "name": "1½x1½x1 Dbl. ½-Arch"
+  },
+  {
+    "name": "Crown, 5-Points",
+    "part_num": "39262"
+  },
+  {
+    "name": "1x1 Tile, Heart",
+    "part_num": "39739"
+  },
+  {
+    "name": "2x4 Technic Brick w/ Vertical Axle Holes",
+    "part_num": "39789"
+  },
+  {
+    "part_num": "39794",
+    "name": "7x11 Frame, Open Center"
+  },
+  {
+    "name": "Tail, End",
+    "part_num": "40379"
+  },
+  {
+    "name": "1x9 Beam",
+    "part_num": "40490"
+  },
+  {
+    "part_num": "40687",
+    "name": "2x4 Plate, 2-Pins, Ends"
+  },
+  {
+    "name": "1x13 Beam",
+    "part_num": "41239"
+  },
+  {
+    "part_num": "41531",
+    "name": "4x4x1⅔ Cylinder w/ Bar, 3-Pin Holes"
+  },
+  {
+    "name": "8x8 Plate",
+    "part_num": "41539"
+  },
+  {
+    "name": "1x2 Beam, Thin",
+    "part_num": "41677"
+  },
+  {
+    "name": "2x2 Bracket, Centered",
+    "part_num": "41682"
+  },
+  {
+    "name": "1x4, 2-Studs Ends",
+    "part_num": "41740"
+  },
+  {
+    "name": "6x2 Wedge, Curved Right",
+    "part_num": "41747"
+  },
+  {
+    "name": "6x2 Wedge, Curved Left",
+    "part_num": "41748"
+  },
+  {
+    "part_num": "41749",
+    "name": "8x3x2 Wedge, Curved Right"
+  },
+  {
+    "part_num": "41750",
+    "name": "8x3x2 Wedge, Curved Left"
+  },
+  {
+    "name": "4x2 Wedge Plate, Right",
+    "part_num": "41769"
+  },
+  {
+    "name": "4x2 Wedge Plate, Left",
+    "part_num": "41770"
+  },
+  {
+    "part_num": "41854",
+    "name": "2x4 Mudguard, Flared"
+  },
+  {
+    "name": "8x8 Plate w/ Rounded End",
+    "part_num": "41948"
+  },
+  {
+    "name": "3L Axle & 2-Pin Hole",
+    "part_num": "42003"
+  },
+  {
+    "name": "6x1 Curved w/ 2-Studs",
+    "part_num": "42022"
+  },
+  {
+    "name": "Axle & Axle Connector",
+    "part_num": "42135"
+  },
+  {
+    "name": "3L Axle Connector",
+    "part_num": "42195"
+  },
+  {
+    "part_num": "42445",
+    "name": "12L Bar w/ 1x2 Plate"
+  },
+  {
+    "part_num": "42509",
+    "name": "Glass for 6x6 Frame"
+  },
+  {
+    "part_num": "43045",
+    "name": "2x4 Pin Hole Hinge, Top"
+  },
+  {
+    "part_num": "43056",
+    "name": "2x4 Pin Hole Hinge, Bottom"
+  },
+  {
+    "name": "Friction Pin & Axle",
+    "part_num": "43093"
+  },
+  {
+    "name": "4x2 Wedge Slope, Left",
+    "part_num": "43710"
+  },
+  {
+    "name": "4x2 Wedge Slope. Right",
+    "part_num": "43711"
+  },
+  {
+    "part_num": "43712",
+    "name": "6x4 Wedge, Curved w/ 4-Studs"
+  },
+  {
+    "part_num": "43713",
+    "name": "6x4 Wedge Curve, Inverted"
+  },
+  {
+    "name": "3x2 Wedge Plate, Right",
+    "part_num": "43722"
+  },
+  {
+    "name": "3x2 Wedge Plate, Left",
+    "part_num": "43723"
+  },
+  {
+    "name": "1x2 Beam",
+    "part_num": "43857"
+  },
+  {
+    "name": "1x1x6 Round w/ Square Base",
+    "part_num": "43888"
+  },
+  {
+    "name": "3x3 Dish",
+    "part_num": "43898"
+  },
+  {
+    "name": "1x2 Plate w/ Click Hinge, 1-Finger, End",
+    "part_num": "44301"
+  },
+  {
+    "name": "1x2 Plate w/ Click Hinge, 1-Finger, Side",
+    "part_num": "44567"
+  },
+  {
+    "part_num": "44674",
+    "name": "2x4 Mudguard, Overhanging"
+  },
+  {
+    "name": "2x2 Flag, Trapezoid",
+    "part_num": "44676"
+  },
+  {
+    "part_num": "44709",
+    "name": "Blaster w/ Studs, 4-Sides"
+  },
+  {
+    "name": "2x2 Bracket",
+    "part_num": "44728"
+  },
+  {
+    "name": "1x2 Plate w/ Horizontal Clip, Top",
+    "part_num": "44861"
+  },
+  {
+    "name": "1x2 Brick, Pin 1-Side",
+    "part_num": "44865"
+  },
+  {
+    "part_num": "45590",
+    "name": "2-Axle Connector, Rubber"
+  },
+  {
+    "part_num": "46303",
+    "name": "Helmet, Sports w/ Vent Holes"
+  },
+  {
+    "part_num": "47407",
+    "name": "4x6 Double Wedge Plate w/ Cutout"
+  },
+  {
+    "name": "Click Joint, 2-Pins",
+    "part_num": "47455"
+  },
+  {
+    "name": "2x3x⅔ Wing End, 2-Studs",
+    "part_num": "47456"
+  },
+  {
+    "name": "2x2x⅔ Curved End",
+    "part_num": "47457"
+  },
+  {
+    "name": "1x2x⅔ Wing End",
+    "part_num": "47458"
+  },
+  {
+    "part_num": "47755",
+    "name": "4x3 Curve w/ Cutout"
+  },
+  {
+    "part_num": "47759",
+    "name": "2x4 Double Wedge Slope"
+  },
+  {
+    "name": "1x1 Brick, 2-Studs, Opposite Sides",
+    "part_num": "47905"
+  },
+  {
+    "name": "4x4 Ø8 Round Corner Brick (Large Macaroni)",
+    "part_num": "48092"
+  },
+  {
+    "part_num": "48169",
+    "name": "2x2 Click Socket, End"
+  },
+  {
+    "name": "3x4 Double Wedge Plate",
+    "part_num": "48183"
+  },
+  {
+    "name": "1x3 Tooth w/ Axle Hole",
+    "part_num": "48267"
+  },
+  {
+    "name": "1x2 Plate w/ Handle, Side",
+    "part_num": "48336"
+  },
+  {
+    "name": "Bar w/ Clip",
+    "part_num": "48729"
+  },
+  {
+    "name": "1x1x⅔ Curved, Double",
+    "part_num": "49307"
+  },
+  {
+    "part_num": "49308",
+    "name": "3x3x1⅓ Dome"
+  },
+  {
+    "part_num": "49577",
+    "name": "Seaweed"
+  },
+  {
+    "name": "1x1 Tooth, Horizontal",
+    "part_num": "49668"
+  },
+  {
+    "name": "1x2 Plate w/ Click Hinge, 2-Finger, Side",
+    "part_num": "50340"
+  },
+  {
+    "part_num": "50862",
+    "name": "15 mm D. x 6mm Wheel, Motorcycle"
+  },
+  {
+    "part_num": "50943",
+    "name": "Air Scoop"
+  },
+  {
+    "name": "3x1 Curved",
+    "part_num": "50950"
+  },
+  {
+    "part_num": "50951",
+    "name": "11m ID. Tire, Smooth (14x6mm)"
+  },
+  {
+    "part_num": "50955",
+    "name": "10x3 Wedge, Curved Left w/ 2-Studs"
+  },
+  {
+    "part_num": "50956",
+    "name": "10x3 Wedge, Curved Right w/ 2-Studs"
+  },
+  {
+    "part_num": "51266",
+    "name": "Glass for 3x3 Window"
+  },
+  {
+    "name": "2x4 Double Wedge Plate",
+    "part_num": "51739"
+  },
+  {
+    "name": "1x2 Brick, Studs 2-Sides",
+    "part_num": "52107"
+  },
+  {
+    "part_num": "53020",
+    "name": "Syringe"
+  },
+  {
+    "name": "1x1 Round w/ Twist (Poop)",
+    "part_num": "53119"
+  },
+  {
+    "name": "Barb, Small",
+    "part_num": "53451"
+  },
+  {
+    "part_num": "53454",
+    "name": "Axe Blade"
+  },
+  {
+    "name": "30° 1x1x⅔ Slope (Cheese)",
+    "part_num": "54200"
+  },
+  {
+    "name": "6x3 Wedge Plate, Right",
+    "part_num": "54383"
+  },
+  {
+    "name": "6x3 Wedge Plate, Left",
+    "part_num": "54384"
+  },
+  {
+    "name": "1x2 Plate w/ Click Hinge, 2-Finger, End",
+    "part_num": "54657"
+  },
+  {
+    "name": "18mm D. x 14mm Wheel w/ Technic Pin Hole",
+    "part_num": "55981"
+  },
+  {
+    "part_num": "55982",
+    "name": "18mm D. x 14mm Wheel w/ Technic Axle Hole"
+  },
+  {
+    "part_num": "56904",
+    "name": "30mm D. x 14mm Wheel w/ Technic Axle Hole"
+  },
+  {
+    "name": "1x2 Cylinder 2-Finger Click Hinge w/ Axle Hole",
+    "part_num": "57360"
+  },
+  {
+    "part_num": "57585",
+    "name": "Pin Hub, 3-Axle 120°"
+  },
+  {
+    "name": "Glass for 4x6 Frame",
+    "part_num": "57895"
+  },
+  {
+    "name": "Light Cover (Bionicle Eye)",
+    "part_num": "58176"
+  },
+  {
+    "part_num": "58247",
+    "name": "Blaster, Short"
+  },
+  {
+    "name": "1x6x5 Panel with Studs",
+    "part_num": "59349"
+  },
+  {
+    "name": "2L Axle Connector",
+    "part_num": "59443"
+  },
+  {
+    "part_num": "59895",
+    "name": "8mm ID. Tire, Smooth (14x4mm)"
+  },
+  {
+    "name": "1x1 Cone",
+    "part_num": "59900"
+  },
+  {
+    "part_num": "60032",
+    "name": "2x2x2 Window, Plane"
+  },
+  {
+    "part_num": "60169",
+    "name": "16L Chain w/ Stud Ends (21 Links)"
+  },
+  {
+    "part_num": "60212",
+    "name": "2x4 Mudguard"
+  },
+  {
+    "name": "1x2 Plate w/ 2-Clips, Side",
+    "part_num": "60470"
+  },
+  {
+    "name": "4x4 Round Plate w/ Pin Hole",
+    "part_num": "60474"
+  },
+  {
+    "name": "1x1 Brick w/ Clip, Vertical",
+    "part_num": "60475"
+  },
+  {
+    "name": "4x1 Slope w/ Stud",
+    "part_num": "60477"
+  },
+  {
+    "name": "1x2 Plate w/ Handle, End",
+    "part_num": "60478"
+  },
+  {
+    "name": "1x12 Plate",
+    "part_num": "60479"
+  },
+  {
+    "name": "2x1x2 Slope w/ 1-Stud",
+    "part_num": "60481"
+  },
+  {
+    "name": "1x2 Beam w/ 1-Axle Hole",
+    "part_num": "60483"
+  },
+  {
+    "name": "3x3 Beam, T-Shape",
+    "part_num": "60484"
+  },
+  {
+    "name": "1x4x3 Panel with Studs",
+    "part_num": "60581"
+  },
+  {
+    "part_num": "60583",
+    "name": "1x1x3 Brick w/ 2-Clips"
+  },
+  {
+    "name": "1x2x2 Window Frame",
+    "part_num": "60592"
+  },
+  {
+    "name": "1x2x3 Window Frame",
+    "part_num": "60593"
+  },
+  {
+    "name": "1x4x3 Window Frame",
+    "part_num": "60594"
+  },
+  {
+    "name": "1x4x6 Window/Door Frame",
+    "part_num": "60596"
+  },
+  {
+    "name": "Glass for 2x2 Window",
+    "part_num": "60601"
+  },
+  {
+    "name": "Glass for 2x3 Window",
+    "part_num": "60602"
+  },
+  {
+    "part_num": "60607",
+    "name": "2x3 Pane, Lattice"
+  },
+  {
+    "name": "Door for 4x6 Frame",
+    "part_num": "60616"
+  },
+  {
+    "part_num": "60808",
+    "name": "1x4x5 Panel w/ Arched Window"
+  },
+  {
+    "name": "1x1 Plate w/ Clip, Horizontal",
+    "part_num": "61252"
+  },
+  {
+    "name": "18° 2x1x⅔ Slope (Cheese Grater)",
+    "part_num": "61409"
+  },
+  {
+    "part_num": "61482",
+    "name": "Handcuffs"
+  },
+  {
+    "part_num": "61649",
+    "name": "DUPLO 2x4x3 Window Frame"
+  },
+  {
+    "name": "4x1 Curved",
+    "part_num": "61678"
+  },
+  {
+    "part_num": "61976",
+    "name": "Satchel"
+  },
+  {
+    "name": "2L Pin Connector",
+    "part_num": "62462"
+  },
+  {
+    "part_num": "63082",
+    "name": "2x2 Plate w/ Towball Socket"
+  },
+  {
+    "name": "1x3 Tile",
+    "part_num": "63864"
+  },
+  {
+    "name": "1x2 Plate w/ Horizontal Clip, End",
+    "part_num": "63868"
+  },
+  {
+    "name": "1-Axle & 3-Pin",
+    "part_num": "63869"
+  },
+  {
+    "name": "6L Bar w/ Stop Ring",
+    "part_num": "63965"
+  },
+  {
+    "name": "3x4 Wedge, Curved",
+    "part_num": "64225"
+  },
+  {
+    "part_num": "64391",
+    "name": "#4 3x7 Fairing, B"
+  },
+  {
+    "part_num": "64393",
+    "name": "#6 3x11 Fairing, B"
+  },
+  {
+    "part_num": "64448",
+    "name": "1x6x5 Girder"
+  },
+  {
+    "name": "Lightsaber Handle",
+    "part_num": "64567"
+  },
+  {
+    "part_num": "64570",
+    "name": "1x6 Bracket w/ 2x6 Plate, Inverted"
+  },
+  {
+    "name": "Telescope",
+    "part_num": "64644"
+  },
+  {
+    "name": "Mini Flame, Plume",
+    "part_num": "64647"
+  },
+  {
+    "part_num": "64681",
+    "name": "#5 3x11 Fairing, A"
+  },
+  {
+    "part_num": "64683",
+    "name": "#3 3x7 Fairing, A"
+  },
+  {
+    "part_num": "64727",
+    "name": "3L Blade w/ Bar"
+  },
+  {
+    "part_num": "64782",
+    "name": "5x11 Panel"
+  },
+  {
+    "name": "4x4 Plate w/ 2x2 cutout",
+    "part_num": "64799"
+  },
+  {
+    "part_num": "64951",
+    "name": "½ Barrel, Large (Tub)"
+  },
+  {
+    "part_num": "65273",
+    "name": "DUPLO 2x2 Stool"
+  },
+  {
+    "name": "3L Pin w/ Bush",
+    "part_num": "65304"
+  },
+  {
+    "name": "2x4 Wedge Plate, Right",
+    "part_num": "65426"
+  },
+  {
+    "name": "2x4 Wedge Plate, Left",
+    "part_num": "65429"
+  },
+  {
+    "name": "Pin Hub, 1-Pin",
+    "part_num": "65487"
+  },
+  {
+    "part_num": "65489",
+    "name": "3L H-Shaped Connector w/ 4-Pins"
+  },
+  {
+    "name": "2x4 Jumper w/ 2-Studs (Double Jumper)",
+    "part_num": "65509"
+  },
+  {
+    "name": "1x1 Round Plate w/ Bar, Bottom",
+    "part_num": "65578"
+  },
+  {
+    "name": "3x3 Round Corner",
+    "part_num": "65617"
+  },
+  {
+    "part_num": "65676",
+    "name": "2x2 Road Sign, Triangle"
+  },
+  {
+    "part_num": "65734",
+    "name": "1x4x2⅔ Curved"
+  },
+  {
+    "part_num": "66788",
+    "name": "Arm, Long w/ Technic Pin"
+  },
+  {
+    "name": "4x4x⅔, w/ Rounded Corners",
+    "part_num": "66792"
+  },
+  {
+    "name": "2x4 Tile, Rounded Ends",
+    "part_num": "66857"
+  },
+  {
+    "name": "Technic Pin w/ Towball",
+    "part_num": "66906"
+  },
+  {
+    "name": "Bar 2L w/ 2-Studs",
+    "part_num": "66909"
+  },
+  {
+    "part_num": "66955",
+    "name": "4x3½x1 Curved, Double w/ 3-Steps"
+  },
+  {
+    "name": "2x2 Wedge. Curved",
+    "part_num": "66956"
+  },
+  {
+    "name": "3x3 Tile, Round",
+    "part_num": "67095"
+  },
+  {
+    "name": "1x2x1⅔ Brick, Studs 3-Sides",
+    "part_num": "67329"
+  },
+  {
+    "part_num": "67338",
+    "name": "Croissant"
+  },
+  {
+    "part_num": "67688",
+    "name": "2x2x⅔ Plate w/ 1 Wheel Pin"
+  },
+  {
+    "name": "2x2 Brick w/ Ball Joint Socket",
+    "part_num": "67696"
+  },
+  {
+    "name": "2x2x1⅓ Curved Corner w/ Cutout",
+    "part_num": "67810"
+  },
+  {
+    "name": "1x2, ½-Circle Brick",
+    "part_num": "68013"
+  },
+  {
+    "name": "Bar 1L w/ 3-Stems",
+    "part_num": "68211"
+  },
+  {
+    "part_num": "68212",
+    "name": "Hair, Tuft"
+  },
+  {
+    "part_num": "68325",
+    "name": "4x4 Round Brick w/ Recess"
+  },
+  {
+    "part_num": "68547",
+    "name": "Cloud Swirl w/ Bar 1L"
+  },
+  {
+    "name": "3x3 Plate, ¼ Corner w/ 2x2 Curved Cutout",
+    "part_num": "68568"
+  },
+  {
+    "part_num": "68888",
+    "name": "Axle Hub, 4-Bars 90°"
+  },
+  {
+    "name": "2x6 Tile",
+    "part_num": "69729"
+  },
+  {
+    "part_num": "69767",
+    "name": "Launcher, Square"
+  },
+  {
+    "name": "Split Axle & 2-Pin",
+    "part_num": "69819"
+  },
+  {
+    "part_num": "69858",
+    "name": "4L Wave / Flame"
+  },
+  {
+    "part_num": "70676",
+    "name": "DUPLO 54° 2x2x2 Slope"
+  },
+  {
+    "name": "1x3 ½-Arch, Inverted",
+    "part_num": "70681"
+  },
+  {
+    "name": "2x3 Panel, Curved",
+    "part_num": "71682"
+  },
+  {
+    "name": "2x3 Beam, ¼-Ellipse",
+    "part_num": "71708"
+  },
+  {
+    "part_num": "71710",
+    "name": "1x15 Beam w/ Alternating Holes"
+  },
+  {
+    "part_num": "72206",
+    "name": "24mm D. x 11mm Wheel w/ Tire, Technic Pin Hole"
+  },
+  {
+    "part_num": "72454",
+    "name": "4x4 Inverted Double Slope"
+  },
+  {
+    "part_num": "72869",
+    "name": "Bar Holder w/ Clip 90°"
+  },
+  {
+    "name": "2x2 Technic Brick w/ Cutaways",
+    "part_num": "73109"
+  },
+  {
+    "name": "1x1 Technic Brick w/ Axle Hole",
+    "part_num": "73230"
+  },
+  {
+    "part_num": "73507",
+    "name": "1x11 Beam w/ Alternating Holes"
+  },
+  {
+    "name": "3x2x1⅓ Bracket",
+    "part_num": "73562"
+  },
+  {
+    "name": "Lever",
+    "part_num": "73587"
+  },
+  {
+    "part_num": "73682",
+    "name": "3x3 Curved Corner, Inverted"
+  },
+  {
+    "name": "2x1 Bracket, Inverted",
+    "part_num": "73825"
+  },
+  {
+    "part_num": "73832",
+    "name": "8x4x⅔, Ø4 Blate w/ 2-Rounded Corners"
+  },
+  {
+    "part_num": "73878",
+    "name": "3x3x2 Window Frame, Curved"
+  },
+  {
+    "part_num": "74967",
+    "name": "8mm D. x 9mm Wheel w/ Wheel Pin Hole"
+  },
+  {
+    "name": "2x2 Bar Frame, Octagonal w/ 4-Studs",
+    "part_num": "75937"
+  },
+  {
+    "name": "DUPLO 1x2x2 Brick",
+    "part_num": "76371"
+  },
+  {
+    "part_num": "76537",
+    "name": "6½L Shock Absorber"
+  },
+  {
+    "part_num": "76795",
+    "name": "5x5 Round Corner, Slope"
+  },
+  {
+    "name": "3x3 Curved Corner w/ Cutout",
+    "part_num": "76797"
+  },
+  {
+    "name": "1x2 Rounded Brick w/ 2-Handles",
+    "part_num": "77808"
+  },
+  {
+    "name": "3x3 Plate, Corner",
+    "part_num": "77844"
+  },
+  {
+    "name": "1x4 Plate, Rounded Ends",
+    "part_num": "77845"
+  },
+  {
+    "name": "1x3 Plate, Rounded Ends",
+    "part_num": "77850"
+  },
+  {
+    "name": "1x2 Plate w/ Vertical Clip, End",
+    "part_num": "78256"
+  },
+  {
+    "name": "2L Bar w/ Stop Ring, Center",
+    "part_num": "78258"
+  },
+  {
+    "name": "1x5 Plate",
+    "part_num": "78329"
+  },
+  {
+    "name": "6x2 Wedge Plate, Left",
+    "part_num": "78443"
+  },
+  {
+    "name": "6x2 Wedge Plate, Right",
+    "part_num": "78444"
+  },
+  {
+    "part_num": "78594",
+    "name": "2x2x5 Panel, Corner"
+  },
+  {
+    "name": "1x2 ½-Arch, Inverted",
+    "part_num": "78666"
+  },
+  {
+    "name": "1x1 Round Plate w/ Handle",
+    "part_num": "79194"
+  },
+  {
+    "name": "2x1 Bracket",
+    "part_num": "79389"
+  },
+  {
+    "name": "3x3 Tile, Corner w/ 2x2 Ø4 Cutout",
+    "part_num": "79393"
+  },
+  {
+    "name": "2x2, Corner Plate w/ 1x1 Cutout",
+    "part_num": "79491"
+  },
+  {
+    "part_num": "79741",
+    "name": "Fork"
+  },
+  {
+    "part_num": "79743",
+    "name": "Cupcake"
+  },
+  {
+    "name": "1x4x⅔ Curved, Double",
+    "part_num": "79756"
+  },
+  {
+    "part_num": "79757",
+    "name": "2x2x⅔ Curved, Double, Corner"
+  },
+  {
+    "part_num": "79850",
+    "name": "4x4x1 Dome w/ 2x2 Recess"
+  },
+  {
+    "name": "5x5 Corner Plate, ¼-Circle w/ 4x4 Curved Cutout",
+    "part_num": "80015"
+  },
+  {
+    "name": "3x2 Wedge, Curved Left",
+    "part_num": "80177"
+  },
+  {
+    "name": "3x2 Wedge, Curved Right",
+    "part_num": "80178"
+  },
+  {
+    "part_num": "80286",
+    "name": "2x5 Beam, ¼-Ellipse"
+  },
+  {
+    "part_num": "80431",
+    "name": "1x2x1⅓ Rotation Joint"
+  },
+  {
+    "name": "Elephant Trunk",
+    "part_num": "80497"
+  },
+  {
+    "part_num": "80674",
+    "name": "Butterfly w/ Stud Holder"
+  },
+  {
+    "part_num": "80796",
+    "name": "1x2x1⅔ Brick, Studs 2-Sides"
+  },
+  {
+    "part_num": "80835",
+    "name": "2x4 Treasure Chest Lid, Flat w/ 2-Studs"
+  },
+  {
+    "part_num": "84195",
+    "name": "DUPLO 3x3 Flower"
+  },
+  {
+    "name": "2x2, Ø4 Round Corner Brick (Macaroni)",
+    "part_num": "85080"
+  },
+  {
+    "name": "1x1 Round Plate w/ Hole",
+    "part_num": "85861"
+  },
+  {
+    "part_num": "85941",
+    "name": "2x4x5, Ø4 ½-Cylinder w/ Cutout"
+  },
+  {
+    "name": "1x1x⅔ Cone (Fez)",
+    "part_num": "85975"
+  },
+  {
+    "name": "30° 1x2x⅔ Slope",
+    "part_num": "85984"
+  },
+  {
+    "name": "1x2 Brick w/ Jumper Stud, 1-Side",
+    "part_num": "86876"
+  },
+  {
+    "name": "1x1x⅔",
+    "part_num": "86996"
+  },
+  {
+    "name": "2x4 Tile",
+    "part_num": "87079"
+  },
+  {
+    "part_num": "87080",
+    "name": "#1 3x5 Fairing, A"
+  },
+  {
+    "name": "4x4 Round Brick w/ Pin Hole",
+    "part_num": "87081"
+  },
+  {
+    "name": "4L Axle w/ Stop",
+    "part_num": "87083"
+  },
+  {
+    "part_num": "87086",
+    "name": "#2 3x5 Fairing, B"
+  },
+  {
+    "name": "1x1 Brick, Stud 1-Side",
+    "part_num": "87087"
+  },
+  {
+    "name": "1x2x3 Panel with Studs",
+    "part_num": "87544"
+  },
+  {
+    "name": "1x2x2 Panel with Studs",
+    "part_num": "87552"
+  },
+  {
+    "name": "2x2 Jumper",
+    "part_num": "87580"
+  },
+  {
+    "name": "2x6x⅔ Plate w/ 4-Studs, Side",
+    "part_num": "87609"
+  },
+  {
+    "part_num": "87617",
+    "name": "1x5½ Cylinder w/ Handle"
+  },
+  {
+    "name": "2x2 Corner Brick, Facet",
+    "part_num": "87620"
+  },
+  {
+    "part_num": "87697",
+    "name": "11mm ID. Tire, Offset (21x12mm)"
+  },
+  {
+    "name": "Barb, Medium",
+    "part_num": "87747"
+  },
+  {
+    "name": "3L Bar",
+    "part_num": "87994"
+  },
+  {
+    "name": "1x2 Plate w/ Bar Arm, Up",
+    "part_num": "88072"
+  },
+  {
+    "name": "3x2 ½-Arch, Pointed",
+    "part_num": "88292"
+  },
+  {
+    "part_num": "88323",
+    "name": "5L Wide Track"
+  },
+  {
+    "name": "3x4, 4-Studs Center",
+    "part_num": "88646"
+  },
+  {
+    "part_num": "88704",
+    "name": "Whip"
+  },
+  {
+    "name": "2x4x⅔ Curved",
+    "part_num": "88930"
+  },
+  {
+    "name": "Horn, Unicorn",
+    "part_num": "89522"
+  },
+  {
+    "part_num": "89523",
+    "name": "10x10 Octagonal Plate"
+  },
+  {
+    "name": "½-Pin, Friction",
+    "part_num": "89678"
+  },
+  {
+    "name": "1x2x2 Panel w/ Arched Window",
+    "part_num": "90195"
+  },
+  {
+    "part_num": "90370",
+    "name": "Microphone"
+  },
+  {
+    "part_num": "90397",
+    "name": "Surfboard"
+  },
+  {
+    "part_num": "90540",
+    "name": "Ski Pole"
+  },
+  {
+    "part_num": "90826",
+    "name": "Broom Bristles"
+  },
+  {
+    "part_num": "91176",
+    "name": "2x2x13 Technic Panel w/ 5-Pin Holes"
+  },
+  {
+    "name": "16x16 Plate",
+    "part_num": "91405"
+  },
+  {
+    "name": "2x14 Plate",
+    "part_num": "91988"
+  },
+  {
+    "part_num": "92099",
+    "name": "4x6 Trap Door"
+  },
+  {
+    "part_num": "92107",
+    "name": "6x8 Plate, Trap Door Frame, Horizontal"
+  },
+  {
+    "part_num": "92402",
+    "name": "18mm ID. Tire, Offset (30.4x14mm)"
+  },
+  {
+    "name": "2x3x2 Cupboard",
+    "part_num": "92410"
+  },
+  {
+    "name": "8x16 Plate",
+    "part_num": "92438"
+  },
+  {
+    "name": "2x2 Plate w/ Click Hinge, 1-Finger, Top",
+    "part_num": "92582"
+  },
+  {
+    "part_num": "92585",
+    "name": "Crowbar"
+  },
+  {
+    "part_num": "92738",
+    "name": "Blaster, Small"
+  },
+  {
+    "part_num": "92926",
+    "name": "Trash Can"
+  },
+  {
+    "name": "2x1 w/ Cutout",
+    "part_num": "92946"
+  },
+  {
+    "name": "2x2 Round, Ribbed (Grille)",
+    "part_num": "92947"
+  },
+  {
+    "name": "1x6 Arch",
+    "part_num": "92950"
+  },
+  {
+    "part_num": "93061",
+    "name": "Skeleton Arm, Bent w/ Vertical Clip"
+  },
+  {
+    "name": "1x2 Panel w/ Divider",
+    "part_num": "93095"
+  },
+  {
+    "part_num": "93160",
+    "name": "2L Bone"
+  },
+  {
+    "name": "4x1x⅔ Curved, Double",
+    "part_num": "93273"
+  },
+  {
+    "name": "2x4 Bracket w/ 2x1 Plate",
+    "part_num": "93274"
+  },
+  {
+    "part_num": "93555",
+    "name": "Ice Skate"
+  },
+  {
+    "part_num": "93593",
+    "name": "11mm D. x 6mm Wheel w/ Wheel Pin Hole"
+  },
+  {
+    "name": "4x2 Curved",
+    "part_num": "93606"
+  },
+  {
+    "part_num": "93789",
+    "name": "Spear"
+  },
+  {
+    "part_num": "94925",
+    "name": "16 Tooth"
+  },
+  {
+    "part_num": "95343",
+    "name": "1x1x1 Bucket"
+  },
+  {
+    "part_num": "95347",
+    "name": "2x2x10 Girder"
+  },
+  {
+    "name": "Brick/Axle Separator",
+    "part_num": "96874"
+  },
+  {
+    "name": "2x2 Cone, Truncated",
+    "part_num": "98100"
+  },
+  {
+    "part_num": "98137",
+    "name": "Sword, Large"
+  },
+  {
+    "name": "1x1 Tile, Round",
+    "part_num": "98138"
+  },
+  {
+    "part_num": "98223",
+    "name": "DUPLO 2x4 Curved, Double"
+  },
+  {
+    "part_num": "98225",
+    "name": "DUPLO 2x2x2 Round"
+  },
+  {
+    "name": "1x2 Brick, Masonry",
+    "part_num": "98283"
+  },
+  {
+    "part_num": "98284",
+    "name": "2x2 Round Plate w/ 4-Handles"
+  },
+  {
+    "name": "Mechanical Arm w/ Bar Holder and Clip",
+    "part_num": "98313"
+  },
+  {
+    "part_num": "98369",
+    "name": "Cleaver"
+  },
+  {
+    "name": "75° 2x2x3 Slope w/ 2-Studs",
+    "part_num": "98560"
+  },
+  {
+    "part_num": "98834",
+    "name": "Spoiler w/ Handle"
+  },
+  {
+    "part_num": "99008",
+    "name": "4L Axle w/ Center Stop"
+  },
+  {
+    "name": "2x2 Bracket, Inverted",
+    "part_num": "99207"
+  },
+  {
+    "name": "1x2 Gold Bar",
+    "part_num": "99563"
+  },
+  {
+    "part_num": "99773",
+    "name": "3x5 Triangle Beam, Thin"
+  },
+  {
+    "name": "1x2 Bracket, Inverted",
+    "part_num": "99780"
+  },
+  {
+    "name": "1x2 Bracket",
+    "part_num": "99781"
+  }
+]
