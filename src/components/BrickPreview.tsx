@@ -14,7 +14,11 @@ export function BrickPreview(props: BrickPreviewProps) {
 
   useEffect(() => {
     getImageRecolorWorker()
-      .recolorImage(`/parts/${props.part}.png`, props.rgb, props.colorType)
+      .recolorImage(
+        `/pickbrick/parts/${props.part}.png`,
+        props.rgb,
+        props.colorType,
+      )
       .then(setImageUrl)
       .catch((error) => {
         console.error("Failed to recolor image:", error);
@@ -33,7 +37,7 @@ export function BrickPreview(props: BrickPreviewProps) {
       radius="none"
       style={{ background: "none" }}
       imgProps={{ style: { objectFit: "contain" } }}
-      src={imageUrl || `/parts/${props.part}.png`}
+      src={imageUrl || `/pickbrick/parts/${props.part}.png`}
     />
   );
 }

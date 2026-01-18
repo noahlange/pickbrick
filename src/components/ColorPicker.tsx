@@ -19,9 +19,10 @@ function getColorOption(color: LegoColor) {
     <AutocompleteItem
       key={color.id}
       textValue={color.name}
+      className="dark:text-white"
       startContent={
         <Swatch
-          className="w-8 h-8 rounded-full overflow-hidden border-1 border-gray-300"
+          className="w-8 h-8 rounded-full overflow-hidden border-1"
           rgb={color.rgb!}
           type={color.type}
         />

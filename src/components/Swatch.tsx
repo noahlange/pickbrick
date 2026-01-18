@@ -14,14 +14,14 @@ export function Swatch(props: SwatchProps) {
         <img
           style={{ mixBlendMode: "overlay" }}
           className="absolute w-full h-full"
-          src="/swatch-metallic.png"
+          src="/pickbrick/swatch-metallic.png"
         />
       </ShowIf>
       <ShowIf value={props.type == ColorType.TRANSPARENT}>
         <img
           style={{ mixBlendMode: "soft-light" }}
           className="absolute w-full h-full"
-          src="/swatch-transparent.png"
+          src="/pickbrick/swatch-transparent.png"
         />
       </ShowIf>
       <div

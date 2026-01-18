@@ -20,13 +20,13 @@ export function Search(props: SearchProps) {
     >
       {(part) => (
         <AutocompleteItem textValue={part.name} key={part.part_num}>
-          <div className="flex gap-3 items-center text-white">
+          <div className="flex gap-3 items-center dark:text-white">
             <Avatar
               className="w-16"
               radius="none"
               style={{ background: "none" }}
               imgProps={{ style: { objectFit: "contain" } }}
-              src={`/parts/${part.part_num}.png`}
+              src={`/pickbrick/parts/${part.part_num}.png`}
             />
             <div className="max-h-12 flex flex-col flex-1">
               <h3 className="max-h-6 text-small overflow-hidden">

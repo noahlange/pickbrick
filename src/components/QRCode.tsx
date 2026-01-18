@@ -19,7 +19,7 @@ export function QRCode() {
       </CardHeader>
       <Divider />
       <CardBody className="flex flex-col h-full justify-items-stretch px-0 items-center">
-        <QR value={compressed} />
+        <QR value={`https://noahlange.github.io/pickbrick?q=${compressed}`} />
       </CardBody>
     </Card>
   );
